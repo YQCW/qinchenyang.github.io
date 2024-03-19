@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a second-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. Desheng Zhang. I also work closely with Prof. Yu Yang. My research interests are broadly in the areas of Cyber-Physical Systems, Spatio-Temporal Data Mining, Urban Computing and Intelligent Transportation. Feel free to drop me an email at qinchen.yang AT rutgers DOT edu.
 
 Recent News
 ======
