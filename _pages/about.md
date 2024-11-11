@@ -11,5 +11,7 @@ I am currently a second-year Ph.D. student at the Computer Science Department, R
 
 Recent News
 ======
-* Oct.2024: Serve as Reviewer for KDD 2025
-* Jan.2024: Serve as Reviewer for KDD 2024
+* Nov.2024: One paper accepted by KDD'25
+* Oct.2024: Serve as Reviewer for KDD'25
+* Jul.2024: One paper (Full Research Paper) accepted by CIKM'24
+* Jan.2024: Serve as Reviewer for KDD'24
