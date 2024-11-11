@@ -13,9 +13,9 @@ I am currently a third-year Ph.D. student at the Computer Science Department, Ru
 
 Recent News
 ======
-* *Nov.2024*: **One paper** accepted by **KDD'25**
+* *Nov.2024*: **One paper** accepted by **KDD'25**: Large Lanaguge Lodel and Query Lewriting
 * *Oct.2024*: Serve as Reviewer for KDD'25
-* *Jul.2024*: **One paper** accepted by **CIKM'24**
+* *Jul.2024*: **One paper** accepted by **CIKM'24**: Multi-agent Reinforment Learning and Traffic Signal Control
 * *Jan.2024*: Serve as Reviewer for KDD'24
 
 Selected Publications
