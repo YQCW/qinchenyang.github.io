@@ -15,3 +15,10 @@ Recent News
 * *Oct.2024*: Serve as Reviewer for KDD'25
 * *Jul.2024*: **One paper** accepted by **CIKM'24**
 * *Jan.2024*: Serve as Reviewer for KDD'24
+
+Selected Publications
+======
+* \[KDD'25] AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data
+**Qinchen Yang**, Zhiqing Hong, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang
+* \[CIKM'24] [MalLight: Influence-Aware Coordinated Traffic Signal Control for Traffic Signal Malfunctions](https://dl.acm.org/doi/10.1145/3627673.3679605)
+**Qinchen Yang**, Zejun Xie, Hua Wei, Desheng Zhang, Yu Yang
