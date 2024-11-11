@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at Rutgers University, under the supervision of [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/). I also work closely with [Prof. Yu Yang](https://www.yyang.site/), [Prof. Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) and [Prof. Tian He](https://www-users.cse.umn.edu/~tianhe/). My research focuses on **Data Mining**, **Spatio-Temporal Machine Learning**, **Reinforcement Learning** and **Large Language Model**. I am particularly interested in **production-driven research** that delivers significant economic and social impact.  
+I am currently a third-year Ph.D. student at Rutgers University, under the supervision of [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/). I also work closely with [Prof. Yu Yang](https://www.yyang.site/), [Prof. Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) and [Prof. Tian He](https://www-users.cse.umn.edu/~tianhe/). My research focuses on **Spatio-Temporal Data Mining**, **Urban Computing**, **Reinforcement Learning** and **Large Language Model**. I am particularly interested in **production-driven research** that delivers significant economic and social impact.  
 
 **I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (qy129@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
 
@@ -17,6 +17,7 @@ Recent News
 * *Oct.2024*: Serve as Reviewer for KDD'25
 * *Jul.2024*: **One paper** accepted by **CIKM'24**: Multi-agent Reinforcement Learning and Traffic Signal Control
 * *Jan.2024*: Serve as Reviewer for KDD'24
+* *May.2023*: Join JD Logistics as Research Intern
 
 Selected Publications
 ======
