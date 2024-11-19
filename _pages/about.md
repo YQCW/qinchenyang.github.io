@@ -25,5 +25,5 @@ Selected Publications
 **Qinchen Yang**, Zhiqing Hong, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang
 * \[CIKM'24] [MalLight: Influence-Aware Coordinated Traffic Signal Control for Traffic Signal Malfunctions](https://dl.acm.org/doi/10.1145/3627673.3679605)  
 **Qinchen Yang**, Zejun Xie, Hua Wei, Desheng Zhang, Yu Yang
-* \[Remote Sensing] [Mapping plastic mulched farmland for high resolution images of unmanned aerial vehicle using deep semantic segmentation](https://www.mdpi.com/2072-4292/11/17/2008)
+* \[Remote Sensing] [Mapping plastic mulched farmland for high resolution images of unmanned aerial vehicle using deep semantic segmentation](https://www.mdpi.com/2072-4292/11/17/2008)  
 **Qinchen Yang**, Man Liu, Zhitao Zhang, Shuqin Yang, Jifeng Ning, Wenting Han
