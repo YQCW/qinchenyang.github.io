@@ -13,9 +13,9 @@ I am currently a third-year Ph.D. student at Rutgers University, under the super
 
 Recent News
 ======
-* *Nov.2024*: **One paper** accepted by **KDD'25**: Large Language Model and Query Rewriting
+* *Nov.2024*: **One paper** about LLM for Query Rewriting accepted by **KDD'25**
 * *Oct.2024*: Serve as Reviewer for KDD'25
-* *Jul.2024*: **One paper** accepted by **CIKM'24**: Multi-agent Reinforcement Learning and Traffic Signal Control
+* *Jul.2024*: **One paper** about Multi-agent Reinforcement Learning accepted by **CIKM'24**
 * *Jan.2024*: Serve as Reviewer for KDD'24
 * *May.2023*: Join JD Logistics as Research Intern
 
