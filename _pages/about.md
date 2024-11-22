@@ -21,7 +21,7 @@ Recent News
 
 Selected Publications
 ======
-* \[KDD'25] AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data  
+* \[KDD'25] [AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data](https://arxiv.org/abs/2411.13584)  
 **Qinchen Yang**, Zhiqing Hong, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang
 * \[CIKM'24] [MalLight: Influence-Aware Coordinated Traffic Signal Control for Traffic Signal Malfunctions](https://dl.acm.org/doi/10.1145/3627673.3679605)  
 **Qinchen Yang**, Zejun Xie, Hua Wei, Desheng Zhang, Yu Yang
