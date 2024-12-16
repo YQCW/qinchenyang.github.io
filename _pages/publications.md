@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap">Published papers are on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tPyFPc0AAAAJ)
+Published papers are on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tPyFPc0AAAAJ)
 
 Papers to Appear:
 ======
