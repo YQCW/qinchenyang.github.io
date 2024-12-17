@@ -13,7 +13,7 @@ I am currently a third-year Ph.D. student at Rutgers University, under the super
 
 Recent News
 ======
-* *Nov.2024*: **One paper** about abnormal address correction in Logistics systems accepted by **KDD'25(ADS Track)**
+* *Nov.2024*: **One paper** about abnormal address correction in Logistics systems accepted by **KDD'25(Applied Data Science Track)**
 * *Oct.2024*: Serve as Reviewer for KDD'25
 * *Jul.2024*: **One paper** about Multi-agent Reinforcement Learning accepted by **CIKM'24**
 * *Jan.2024*: Serve as Reviewer for KDD'24
